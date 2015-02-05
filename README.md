@@ -1,4 +1,4 @@
 # PICoachmark
 A extensible and easy coach mark libary
 
-[![Screen shot]](http://youtu.be/vzXaTqgX014)
+![alt tag](https://raw.githubusercontent.com/phamquy/PICoachmark/master/screenshot.gif)
