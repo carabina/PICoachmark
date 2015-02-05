@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+workspace 'PICoachmarkExample'
+
+xcodeproj 'PICoackmarkExample'
+platform :ios, '7.0'
+pod 'PICoachmark', :path => '../'

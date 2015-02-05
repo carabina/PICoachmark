@@ -1,0 +1,17 @@
+PODS:
+  - AnimatedGIFImageSerialization (0.2.0)
+  - PICoachmark (0.0.1):
+    - AnimatedGIFImageSerialization (~> 0.2)
+
+DEPENDENCIES:
+  - PICoachmark (from `../`)
+
+EXTERNAL SOURCES:
+  PICoachmark:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AnimatedGIFImageSerialization: ee2b8f04ec1143dd196cac160a7b119753891825
+  PICoachmark: 94d1c1d1e499cfbd6ee20c0955c5a3f6bec304a5
+
+COCOAPODS: 0.35.0
